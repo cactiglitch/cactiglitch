@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cactiglitch
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on open-sourced project
 - 📫 How to reach me : github.com/cactiglitch
 
 <!---
