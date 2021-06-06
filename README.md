@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cactiglitch
+- 👋 Hi, I’m @cactiglitch 🌵
 - 📫 Welcome to my github page: github.com/cactiglitch
 - 💾 The repositories: C/C++, Python exercises
 - 🌱 Have a nice day! 
