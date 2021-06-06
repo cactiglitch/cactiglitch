@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cactiglitch 🌵
 - 📫 Welcome to my github page: github.com/cactiglitch
-- 💾 The repositories: C/C++, Python exercises
+- 💾 Repositories: C/C++, Python, Fortran exercises
 - 👻 Have a nice day! 
 
 <!---
